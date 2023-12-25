@@ -29,9 +29,9 @@ Progetto universitario relativo alla materia BASI DI DATI da 9CFU. Il progetto c
 
     2.3. Ristrutturazione dello schema E-R
 
-         2.3.1. Analisi delle ridondanze
+        2.3.1. Analisi delle ridondanze
 
-         2.3.2. Eliminazione delle generalizzazioni 
+        2.3.2. Eliminazione delle generalizzazioni 
 
     2.4. Schema E-R ristrutturato + business rules. 
 
